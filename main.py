@@ -24,7 +24,7 @@ from games.crash import init_crash
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8590626409:AAFhCW98PcsQFDOXNOC2l73cke-XDY7hfJc")
 ADMIN_ID = int(os.getenv("ADMIN_ID", 5439940299))  # Твой ID по умолчанию
 CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@InitialNFT")
 
